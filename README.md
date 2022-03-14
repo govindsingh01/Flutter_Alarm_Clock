@@ -4,7 +4,8 @@ Minimal UI | Modern Theme | Full Functional<br>
 
 <p align="center">
   <img src="flutter_clock_app.png" alt="flutter alarm clock app" title="Screenshot">
-</p>
+</p>![Image 06-03-22 at 6 13 PM](https://user-images.githubusercontent.com/92879684/158243918-43f5c8f5-31f5-46f9-bfae-ce95366e2b57.jpg)
+
 
 
 
